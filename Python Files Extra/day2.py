@@ -1,37 +1,37 @@
 # this is my first code
 
-# print("Hello world")
+print("Hello world")
 
 # This is  arithmatic code
 a=10
 b=9
 
-# print(a/b)
-# print(a//b)
-# print(a%b)
+print(a/b)
+print(a//b)
+print(a%b)
 
-# name="Mayukhjit Chakraborty"
-# name2="Rohan"
-#
-# print(name)
-# print(name+a)
+name="Mayukhjit Chakraborty"
+name2="Rohan"
+
+print(name)
+print(name+a)
 
 
-# num1=12.8
-# num2=98.4
-#
-# num3=int(num1+num2)
-# print(num3)
-#
-# a=10
-# b=86
-# c=float(b-a)
-# print(c)
+num1=12.8
+num2=98.4
 
-# a=10
-# print(a)
-# a=a+1
-# print(a)
+num3=int(num1+num2)
+print(num3)
+
+a=10
+b=86
+c=float(b-a)
+print(c)
+
+a=10
+print(a)
+a=a+1
+print(a)
 
 # user input
 
